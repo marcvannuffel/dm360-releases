@@ -99,5 +99,6 @@ the package under `ffmpeg/`.
 
 ---
 
-DaVinci Resolve is a trademark of Blackmagic Design. GoPro and Insta360 are
+PodcastMagic 360 is made by NuNu Soft. DaVinci Resolve is a trademark of
+Blackmagic Design. GoPro and Insta360 are
 trademarks of their owners. PodcastMagic 360 is not affiliated with them.

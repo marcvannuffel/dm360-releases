@@ -4,8 +4,8 @@
 
 **Your 360° podcast recording, directed like a camera operator – inside DaVinci Resolve Studio.**
 
-[Website](https://marcvannuffel.github.io/podcastmagic360-site/) ·
-[Installation guide](https://marcvannuffel.github.io/podcastmagic360-site/install.html) ·
+[Website](https://podcastmagic360.com/) ·
+[Installation guide](https://podcastmagic360.com/install.html) ·
 [Buy a licence – $99](https://buy.polar.sh/polar_cl_GSkvM6gTHxN5hH15pHMuJXTHpOJ09WWcmPKVu2kIavP) ·
 [Latest release](https://github.com/marcvannuffel/dm360-releases/releases/latest)
 
@@ -53,7 +53,7 @@ Restart DaVinci Resolve and open **Workspace › Workflow Integrations ›
 PodcastMagic 360**.
 
 Step by step, with first start and troubleshooting:
-**[installation guide](https://marcvannuffel.github.io/podcastmagic360-site/install.html)**.
+**[installation guide](https://podcastmagic360.com/install.html)**.
 
 ## Free trial and licence
 
